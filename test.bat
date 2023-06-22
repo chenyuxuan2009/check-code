@@ -17,7 +17,4 @@ start
 del ac.exe
 del rand.exe
 del code.exe
-del in.txt
-del out.txt
-del ans.txt
 pause
